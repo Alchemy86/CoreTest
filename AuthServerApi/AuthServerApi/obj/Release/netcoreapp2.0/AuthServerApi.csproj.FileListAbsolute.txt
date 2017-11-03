@@ -1,0 +1,11 @@
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\bin\Release\netcoreapp2.0\AuthServerApi.deps.json
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\bin\Release\netcoreapp2.0\AuthServerApi.dll
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\bin\Release\netcoreapp2.0\AuthServerApi.pdb
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.csprojResolveAssemblyReference.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.csproj.CoreCompileInputs.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.AssemblyInfoInputs.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.AssemblyInfo.cs
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.dll
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\obj\Release\netcoreapp2.0\AuthServerApi.pdb
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\bin\Release\netcoreapp2.0\AuthServerApi.runtimeconfig.json
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi\bin\Release\netcoreapp2.0\AuthServerApi.runtimeconfig.dev.json
