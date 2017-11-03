@@ -1,0 +1,11 @@
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\bin\Debug\netcoreapp2.0\AuthServerApi.Test.deps.json
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\bin\Debug\netcoreapp2.0\AuthServerApi.Test.dll
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.csprojResolveAssemblyReference.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.csproj.CoreCompileInputs.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.AssemblyInfoInputs.cache
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.AssemblyInfo.cs
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\bin\Debug\netcoreapp2.0\AuthServerApi.Test.pdb
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.dll
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\obj\Debug\netcoreapp2.0\AuthServerApi.Test.pdb
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\bin\Debug\netcoreapp2.0\AuthServerApi.Test.runtimeconfig.json
+D:\GIT\CoreTest\AuthServerApi\AuthServerApi.Test\bin\Debug\netcoreapp2.0\AuthServerApi.Test.runtimeconfig.dev.json

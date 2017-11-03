@@ -1,0 +1,14 @@
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\UnitTestProject1.Tests.deps.json
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\UnitTestProject1.Tests.runtimeconfig.json
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\UnitTestProject1.Tests.runtimeconfig.dev.json
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\UnitTestProject1.Tests.dll
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\bin\Debug\netcoreapp2.0\UnitTestProject1.Tests.pdb
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.csprojResolveAssemblyReference.cache
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.csproj.CoreCompileInputs.cache
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.AssemblyInfoInputs.cache
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.AssemblyInfo.cs
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.dll
+D:\GIT\CoreTest\AuthServerApi\UnitTestProject1.Tests\obj\Debug\netcoreapp2.0\UnitTestProject1.Tests.pdb
